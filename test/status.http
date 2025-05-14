@@ -1,0 +1,22 @@
+###
+GET http://127.0.0.1:3003/api/v01/status
+Content-Type: application/json
+###
+GET http://127.0.0.1:3003/api/v02/status
+Content-Type: application/json
+
+
+
+
+###
+GET http://127.0.0.1:3003/api/json_file
+Content-Type: application/json
+//Este endpoint lee el archivo books.json y lo devuelve como response. 
+
+
+
+###
+GET http://127.0.0.1:3003/api/data_externa?csvUrl=https://raw.githubusercontent.com/plotly/datasets/refs/heads/master/beers.csv
+Content-Type: application/json
+//Este endpoint mediante la url crea el archivo que se pidio, lo hice asi en vez de meter la url en el metodo. 
+//ELIMINAR EL ARCHIVO CSV QUE SE CREE DEVUELTA, SALUDOSSS

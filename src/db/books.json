@@ -1,0 +1,82 @@
+[
+	{
+		"id": "b72f94f2-bc09-49e4-85a6-83fd7eaa29c0",
+		"title": "Cien años de soledad",
+		"author": "Gabriel García Márquez",
+		"isbn": "978-3-16-148410-0",
+		"publishedDate": "1967-06-05",
+		"availableCopies": 4
+	},
+	{
+		"id": "c1a0b98a-ece2-49a9-b0c5-0b2cf3d41460",
+		"title": "1984",
+		"author": "George Orwell",
+		"isbn": "978-0-452-28423-4", 
+		"publishedDate": "1949-06-08",
+		"availableCopies": 7
+	},
+	{
+		"id": "1b12e76f-4c35-4f77-90bb-17f17f1ab6c9",
+		"title": "El nombre de la rosa",
+		"author": "Umberto Eco",
+		"isbn": "978-84-376-0494-7",
+		"publishedDate": "1980-08-15",
+		"availableCopies": 5
+	},
+	{
+		"id": "a3bdf8f5-7902-4f7e-994d-3b3d4e48b07c",
+		"title": "Don Quijote de la Mancha",
+		"author": "Miguel de Cervantes",
+		"isbn": "978-84-376-0493-0",
+		"publishedDate": "1605-01-16",
+		"availableCopies": 2
+	},
+	{
+		"id": "e01f71f7-1b5c-462d-b2cf-0a6d74f54a1c",
+		"title": "Crónica de una muerte anunciada",
+		"author": "Gabriel García Márquez",
+		"isbn": "978-0-307-38988-5",
+		"publishedDate": "1981-03-01",
+		"availableCopies": 3
+	},
+	{
+		"id": "fae4ae3d-6e11-44c2-95a7-9a3f8ae7a1f1",
+		"title": "Rayuela",
+		"author": "Julio Cortázar",
+		"isbn": "978-84-376-0496-1",
+		"publishedDate": "1963-06-28",
+		"availableCopies": 6
+	},
+	{
+		"id": "33a9d828-02b1-4f4c-a097-6e7d76db8942",
+		"title": "Fahrenheit 451",
+		"author": "Ray Bradbury",
+		"isbn": "978-0-7432-4722-1",
+		"publishedDate": "1953-10-19",
+		"availableCopies": 4
+	},
+	{
+		"id": "f81c99de-2c60-4237-86e2-8a6170f087cf",
+		"title": "Pedro Páramo",
+		"author": "Juan Rulfo",
+		"isbn": "978-0-06-091307-6",
+		"publishedDate": "1955-03-19",
+		"availableCopies": 3
+	},
+	{
+		"id": "927c3a57-8d34-45f4-a7d6-bb0dd5a15d41",
+		"title": "La casa de los espíritus",
+		"author": "Isabel Allende",
+		"isbn": "978-0-553-27352-7",
+		"publishedDate": "1982-01-01",
+		"availableCopies": 5
+	},
+	{
+		"id": "b2f5d807-7995-4410-a1cc-1525a462bd59",
+		"title": "Los detectives salvajes",
+		"author": "Roberto Bolaño",
+		"isbn": "978-0-312-42420-3",
+		"publishedDate": "1998-04-14",
+		"availableCopies": 2
+	}
+]

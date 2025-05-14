@@ -1,0 +1,33 @@
+###
+GET http://127.0.0.1:3003/libros/libro-valid/c1a0b98a-ece2-49a9-b0c5-0b2cf3d41460
+Content-Type: application/json
+###
+POST http://127.0.0.1:3003/libros/libro-create
+Content-Type: application/json
+
+{
+    "libro":{ 
+        "id": "",
+        "title": "HOLASSAAA",
+        "author": "Gabriel García Márquez",
+        "isbn": "978-3-16-148410-0",
+        "publishedDate": "1967-06-05",
+        "availableCopies": 4
+    }
+}
+
+###
+DELETE http://127.0.0.1:3003/libros/libro-delete/5517fa4d-2e43-451b-8c22-1656c08e653f
+Content-Type: application/json
+
+###
+PUT http://127.0.0.1:3003/libros/libro-put
+Content-Type: application/json
+
+{
+    "id": "e3245450-5f34-4b37-8890-d7e7ad041b95",
+    "semanasPlus":20000,
+    "expDate": "2025-05-20T00:00:00.014Z"
+}
+
+//EN EL ARCHIVO STATUS.HTTP ESTAN LOS OTROS DOS ENDPOINT QUE FALTAN, EL DATA EXTERNA Y JSONFILE
